@@ -1,0 +1,49 @@
+{
+  "back_button": "Назад",
+  "input_user_text":"Введите id пользователя или юзернейм",
+  "error_input_user":"нет такого пользователя, попробуйте снова",
+
+  "start_policy":"Политика бота:",
+  "start_policy_button": "Принимаю",
+  "start": "Добро пожаловать",
+  "start_button_reviews": "Посмотреть отзывы о человек",
+  "start_button_profile": "Мой профиль",
+
+  "my_profile_buy":"Купить премиум",
+  "my_profile_reviews": "Отзывы",
+  "my_profile_about_me": "Обо мне",
+
+  "about_me": "Введите информацию о себе",
+  "about_me_premium": "Для того чтобы добавить описание купите премиум",
+  "about_me_premium_button": "Купить премиум",
+  "error_long_about_me": "Слишком длинное описание, попробуйте еще раз",
+  "success_about_me": "Информация о себе обновлена",
+  "user_profile_reviews": "Отзывы",
+  "user_profile_add_reviews": "Оставить отзыв",
+  "user_profile_complain": "Пожаловаться",
+
+  "buy_tariff": "Выберите тариф",
+  "buy_payment_system": "Выберите способ оплаты",
+  "title_invoice": "Премиум-подписка",
+  "success_invoice": "Вы успешно приобрели премиум подписку",
+  "crypto_bot": "оплатите а зачем проверьте платеж при необходимости",
+  "crypto_boy_false": "Платеж не оплачен",
+
+  "complaint_input_text": "Чтобы пожаловаться отправьте сообщение или сообщение с фотографией",
+
+  "sender_text_input": "Введите сообщение или сообщение с фотографией",
+  "sender_link_input": "Хотите ли вы добавить ссылку в кнопке?\nЕсли да, то отправьте (Подписка+http://...",
+  "sender_begin": "Рассылка начата",
+
+  "admin": "Добро пожаловать в админ панель",
+  "price_edit_text": "Выберите тариф для редактирования",
+  "price_input": "Введите новую цену",
+  "confirmation_edit": "Вы уверены что хотите изменить",
+
+  "policy_edit": "Введите текст политики бота",
+  "confirmation_clean_reviews": "Вы уверены что хотите очистить отзывы пользователя:",
+  "confirmation_block": "Вы уверены что хотите заблокировать пользователя",
+  "give_premium_success": "Премиум выдан",
+  "give_premium": "На сколько?"
+
+}
